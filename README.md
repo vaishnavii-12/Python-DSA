@@ -1,4 +1,7 @@
 # 🚀 Python DSA Portfolio
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Learning](https://img.shields.io/badge/Focus-DSA-orange)
 
 <div align="center">
 
