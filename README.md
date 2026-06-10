@@ -1,8 +1,12 @@
 # 🚀 Python DSA Portfolio
+<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Status](https://img.shields.io/badge/Status-Active-success)
-![Learning](https://img.shields.io/badge/Focus-DSA-orange)
+![Focus](https://img.shields.io/badge/Focus-DSA-orange)
 
+</div>
+🚀 Passionate Python Learner | 🧠 DSA Enthusiast | 🌱 Continuous Growth Through Code
 <div align="center">
 
 ### 🧠 Building Strong Foundations in Python, Data Structures & Algorithms
