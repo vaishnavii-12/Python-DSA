@@ -95,6 +95,6 @@ As I continue learning, this collection will grow to include more advanced conce
 
 <div align="center">
 
-💡 "Success is the sum of small efforts repeated day after day."
+💡** "Success is the sum of small efforts repeated day after day."
 
-⭐ Thanks for visiting my repository. Feel free to explore my learning journey and follow my progress.
+⭐ Thanks for visiting my repository. Feel free to explore my learning journey and follow my progress.**
