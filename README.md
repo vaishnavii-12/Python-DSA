@@ -95,8 +95,6 @@ As I continue learning, this collection will grow to include more advanced conce
 
 <div align="center">
 
-### 💡 "Consistency compounds. Every line of code is a step forward."
+💡 "Success is the sum of small efforts repeated day after day."
 
-⭐ Thank you for visiting this repository.
-
-</div>
+⭐ Thanks for visiting my repository. Feel free to explore my learning journey and follow my progress.
