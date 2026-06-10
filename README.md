@@ -26,6 +26,26 @@ The objective is not only to write code but also to understand the logic, effici
 ---
 
 ## 🎯 Key Learning Areas
+# Python DSA
+
+A collection of beginner-friendly Python programs.
+
+## Basics
+- HelloWorld.py
+- Calculator.py
+- EvenOdd.py
+
+## Loops
+- Factorial.py
+- Fibonacci.py
+
+## Strings
+- ReverseString.py
+- Palindrome.py
+
+## Lists
+- LargestElement.py
+- SecondLargest.py
 
 ### 🐍 Python Programming
 
